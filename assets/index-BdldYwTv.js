@@ -144,4 +144,4 @@ License: MIT
         .animate-slow-ping {
           animation: slow-ping 2s infinite;
         }
-      `})]})}function b9(){return ve.jsx(Dm,{basename:"/",children:ve.jsxs(pm,{children:[ve.jsx(Bu,{path:"/",element:ve.jsx(t3,{})}),ve.jsx(Bu,{path:"/aidial",element:ve.jsx(_9,{})})]})})}const vp=document.getElementById("root");if(!vp)throw new Error("Root element not found");S2.createRoot(vp).render(ve.jsx(F.StrictMode,{children:ve.jsx(b9,{})}));
+      `})]})}function b9(){return ve.jsx(Dm,{basename:"/Whisper-AI/",children:ve.jsxs(pm,{children:[ve.jsx(Bu,{path:"/",element:ve.jsx(t3,{})}),ve.jsx(Bu,{path:"/aidial",element:ve.jsx(_9,{})})]})})}const vp=document.getElementById("root");if(!vp)throw new Error("Root element not found");S2.createRoot(vp).render(ve.jsx(F.StrictMode,{children:ve.jsx(b9,{})}));
